@@ -7,7 +7,7 @@
     - https://www.facebook.com/*/posts/*
     - https://www.facebook.com/*/activity/*
     - https://www.facebook.com/photo.php?fbid=*
-    - https://www.facebook.com/photos/*
+    - https://www.facebook.com/*/photos/*
     - https://www.facebook.com/permalink.php?story_fbid=*
     - https://www.facebook.com/media/set?set=*
     - https://www.facebook.com/questions/*
